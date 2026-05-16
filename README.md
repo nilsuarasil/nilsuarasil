@@ -51,7 +51,7 @@ My long-term goal is to build a career in neuroscience and brain-computer interf
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="mailto:nilsuarasil@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nilsuarasil@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
