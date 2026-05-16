@@ -52,8 +52,7 @@ My long-term goal is to build a career in neuroscience and brain-computer interf
 
 <p align="left">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nilsuarasil@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+ 
 
 <a href="https://github.com/nilsuarasil">
   <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"/>
